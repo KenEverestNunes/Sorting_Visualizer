@@ -4,3 +4,5 @@ This project gives a visual representation of working of the most commonly used 
 Sorting algorithms implemented are Merge sort, Quicksort, Heap
 and Bubble sort.
 Technologies Used(HTML,CSS,Javascript).
+
+Check out the deployed code here: https://keneverestnunes.github.io/Sorting_Visualizer/
